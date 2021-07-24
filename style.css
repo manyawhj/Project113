@@ -1,0 +1,16 @@
+h3
+  {
+    font-size: 25px !important;
+    font-style: oblique;
+    }
+  canvas {
+  	border:1px solid black;
+  }
+
+  label{
+    color: white;
+}
+
+label:hover{
+  background-color: #93e7fa;
+}
